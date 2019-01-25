@@ -1,4 +1,4 @@
 # hello-world
 github hello world guide
 
-this is editing testing the branch feature
+this editing tests the branch feature
